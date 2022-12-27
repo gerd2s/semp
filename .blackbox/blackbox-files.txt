@@ -1,1 +1,2 @@
 bmc/template.xml
+doc/README.md
